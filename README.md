@@ -10,9 +10,9 @@
 
 <br>
 
-## LinkedIn
+## Linkedin / Gmail
 [<img width="26px" alt="LikedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
-
+<a href="mailto:lucascesar.lorena@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 
 ## Technologies

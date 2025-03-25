@@ -1,27 +1,38 @@
 <img src="capa.png">
 
-<br>
-
-## I try to learn something new every day.
-- Computer Science undergraduate (7th semester);
+### ✨ Hi there, I'm Lucas! ✨
+- Computer Science student at UNIP
+- Passionate about programming, machine learning, data science and robotics.
 - Early Associate at Unicamp
+- I try to learn something new every day.
 
-[![Lucas Cesar stats](https://github-readme-stats.vercel.app/api?username=alemaogalego&show_icons=true&count_private=true&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&icon_color=778200&border_color=111111&border_radius=9&card_width=360)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemaogalego&layout=compact&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&border_color=111111&border_radius=9&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+## Languages e Tools 💻
+<div style="display: inline">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="github" src="https://camo.githubusercontent.com/9615f692f99844da494943003eaccff605cf4b4a5a50514b6339935a6e74b3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646" />
+  <img align="center" alt="css" src="https://camo.githubusercontent.com/7721cf416e25c8e47606ecde48482bfb7058af72eb83da39aedb11f6fcb768cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3636333339393f7374796c653d666f722d7468652d6261646765266c6f676f3d435353266c6f676f436f6c6f723d464646464646" />
+  <img align="center" alt="html" src="https://camo.githubusercontent.com/45073e07a6b8ca03b863a5c08db1f8f2051be8ec8f07242106fd4a3c0ec6d2a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646" />
 
 <br>
 
-## Linkedin / Gmail
-[<img width="26px" alt="LikedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
-<a href="mailto:lucascesar.lorena@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img width="78px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br />
+## ## Reach me 📫
+[![Gmail](https://img.shields.io/badge/-lucascesar.lorena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucascesar.lorena@gmail.com)](mailto:lucascesar.lorena@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cesar-lorena/)
 
-## Technologies
-
-<img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img alt="Javascript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img alt="Android Studio" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <img alt="Linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> <img alt="mySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img alt="firebase" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> <img alt="git" width="32px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <br>
-<br>
 
-[linkedin]: https://www.linkedin.com/in/lucas-cesar-lorena/
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/alemaogalego">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemaogalego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemaogalego&layout=compact&langs_count=7&theme=tokyonight"/> 
+  </center>
+</div>

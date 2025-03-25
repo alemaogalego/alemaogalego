@@ -1,7 +1,7 @@
-<img src="capa.png">
+####<img src="">
 
 ### ✨ Hi there, I'm Lucas! ✨
-- Computer Science student at UNIP
+- Computer Science undergraduate (7th semester);
 - Passionate about programming, machine learning, data science and robotics.
 - Early Associate at Unicamp
 - I try to learn something new every day.

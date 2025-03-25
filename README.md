@@ -1,4 +1,4 @@
-####<img src="">
+<img src="banner.png">
 
 ### ✨ Hi there, I'm Lucas! ✨
 - Computer Science undergraduate (7th semester);

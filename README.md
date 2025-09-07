@@ -1,10 +1,10 @@
 <img src="banner.png">
 
-### ✨ Hi there, I'm Lucas! ✨
-- Computer Science undergraduate (7th semester);
-- Passionate about programming, machine learning, data science and robotics.
-- Early Associate at Unicamp
-- I try to learn something new every day.
+### ✨Oi eu sou o Lucas! ✨
+- Bacharelado em Ciência Da Computação(7th semester);
+- Apaixonado por programação, aprendizado de máquina, ciência de dados e robótica
+- Tento aprender algo novo todos os dias.
+
 
 <br>
 

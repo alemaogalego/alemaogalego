@@ -19,7 +19,7 @@
 
 <br>
 
-## ## Contato 📫
+## Contato 📫
 [![Gmail](https://img.shields.io/badge/-lucascesar.lorena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucascesar.lorena@gmail.com)](mailto:lucascesar.lorena@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cesar-lorena/)
 

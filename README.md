@@ -1,6 +1,6 @@
 <img src="banner.png">
 
-### ✨Oi eu sou o Lucas! ✨
+### ✨Olá, meu nome é Lucas✨
 - Bacharelado em Ciência Da Computação(7th semester);
 - Apaixonado por programação, aprendizado de máquina, ciência de dados e robótica
 - Tento aprender algo novo todos os dias.
@@ -19,7 +19,7 @@
 
 <br>
 
-## ## Reach me 📫
+## ## Contato 📫
 [![Gmail](https://img.shields.io/badge/-lucascesar.lorena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucascesar.lorena@gmail.com)](mailto:lucascesar.lorena@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cesar-lorena/)
 
